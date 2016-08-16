@@ -1,0 +1,69 @@
+{\rtf1\ansi\ansicpg936\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 CourierNewPSMT;\f1\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red0\green0\blue255;\red74\green74\blue74;
+\red10\green82\blue135;\red18\green139\blue2;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
+\'a0<?xml version=\cf3 '1.0'\cf2 \'a0encoding=\cf3 'UTF-8'\cf2 ?>\cf4 \
+\cf2 \'a0<!DOCTYPE plist PUBLIC\'a0\cf3 '-//Apple//DTD PLIST 1.0//EN'\cf2 \'a0\cf3 '\cf2 http://www.apple.com/DTDs/PropertyList-1.0.dtd\cf3 '\cf2 >\
+\cf4 \
+\cf2 <plist version=\cf3 '1.0'\cf2 >\cf4 \
+\cf2 \'a0<dict>\cf4 \
+\cf2 \'a0\'a0<key>items</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0<array>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<dict>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>assets</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<array>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<dict>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>kind</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>software-\cf5 package\cf2 </string>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>url</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>https://github.com/jmclf/LEDTuner/blob/master/HolidayLed.ipa</string>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0</dict>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<dict>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>kind</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>full-size-image</string>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>needs-shine</key>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<\cf5 false\cf2 />\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>url</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>
+\f1 \'cf\'c2\'d4\'d8\'ca\'b1\'b4\'f3\'cd\'bc\'a3\'a8\'b7\'c7\'b1\'d8\'cc\'ee\'a3\'a9
+\f0 </string>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0</dict>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<dict>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>kind</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>display-image</string>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>needs-shine</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<\cf5 false\cf2 />\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>url</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>
+\f1 \'cf\'c2\'d4\'d8\'ca\'b1\'d0\'a1\'cd\'bc\'a3\'a8\'b7\'c7\'b1\'d8\'cc\'ee\'a3\'a9
+\f0 </string>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0</dict>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0</array>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>metadata</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<dict>\
+\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>bundle-identifier</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>com.seekway.clf.HolidayLed</string>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>bundle-version</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>\cf6 1.0\cf2 </string>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>kind</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>software</string>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>subtitle</key>\cf4 \
+\cf2 \'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>
+\f1 HolidayLed
+\f0 </string>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<key>title</key>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0<string>
+\f1 HolidayLed
+\f0 </string>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0</dict>\
+\'a0\'a0\'a0\'a0\'a0\'a0\'a0\'a0</dict>\
+\'a0\'a0\'a0\'a0\'a0</array>\
+\'a0</dict>\
+\'a0</plist>\
+}
