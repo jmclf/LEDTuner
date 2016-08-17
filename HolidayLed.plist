@@ -39,9 +39,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                 <string>LED Tuner</string>
+                 <string>HolidayLed</string>
                  <key>title</key>
-                 <string>LED Tuner</string>
+                 <string>HolidayLed</string>
              </dict>
         </dict>
      </array>
