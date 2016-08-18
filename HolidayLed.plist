@@ -11,7 +11,7 @@
               <key>kind</key>
                 <string>software-package</string>
                   <key>url</key>
-                    <string>https://raw.githubusercontent.com/jmclf/LEDTuner/raw/master/HolidayLed.ipa</string>
+                    <string>http://120.25.192.35:8080/app/HolidayLed.ipa</string>
                   </dict>
                   <dict>
           <key>kind</key>
